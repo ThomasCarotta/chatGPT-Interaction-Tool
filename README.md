@@ -51,6 +51,3 @@ python your_script.py
 - Ensure your OpenAI API key is valid and has sufficient quota for usage.
 - The `temperature`, `max_tokens`, and other parameters in the script can be adjusted to modify the behavior of the model as needed.
 - Press `Ctrl + C` to exit the program at any time.
-
-Enjoy seamless interaction with ChatGPT through this lightweight and efficient tool!
-```
